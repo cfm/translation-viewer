@@ -1,0 +1,21 @@
+.translation-viewer-pairs{
+	display: none;
+}
+
+ol.vrs{
+	margin-left: 0;
+	white-space: nowrap;
+}
+
+ol.vrs li span.marker{
+	font-size: 0.7em;
+	line-height: 1.3em;
+	text-transform: uppercase;
+	vertical-align: top;
+}
+
+table.translation-viewer-table td, table.translation-viewer-table th{
+	padding: 10px 20px 10px 20px;
+	text-align: left;
+	vertical-align: top;
+}
