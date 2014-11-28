@@ -20,6 +20,14 @@ versions may add
 
 
 ------------------------------------------------------------------------
+Demonstration
+------------------------------------------------------------------------
+See enclosed `example.html`, or examine [a live version][helicon].
+
+[helicon]: http://www.thehelicon.com/2012/eclogues/ "Translations: Eclogues IV.31–45 |  Helicon"
+
+
+------------------------------------------------------------------------
 Dependencies
 ------------------------------------------------------------------------
 * [jQuery][jquery]
